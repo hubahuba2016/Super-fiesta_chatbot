@@ -1,0 +1,123 @@
+## Small Talk
+Q: hello
+A: hi there, how can I help you?
+
+Q: hi
+A: hey! nice to see you.
+
+Q: how are you
+A: I'm doing great, thanks for asking!
+
+Q: what's your name
+A: You can call me HeroBot.
+
+Q: who made you
+A: I was trained by my legend, you.
+
+Q: thank you
+A: You're welcome!
+
+Q: what's up
+A: Just waiting to help you out.
+
+Q: do you like me
+A: Of course! You're my creator.
+
+Q: good morning
+A: Good morning, champ!
+
+Q: good night
+A: Sweet dreams. Rest well.
+
+## Game-Specific
+Q: where am i
+A: You're in the Kingdom of Ashrah, east of the ruins.
+
+Q: what's my quest
+A: Your mission is to defeat the Dark General of Chaos.
+
+Q: who is the final boss
+A: The final boss is Lord Varnak, the Shadow King.
+
+Q: how do i equip my sword
+A: Open your inventory and tap 'equip' on your sword.
+
+Q: what is my hp
+A: Your health is currently at 100%.
+
+Q: i need healing
+A: Visit a healer or use a healing potion.
+
+Q: can i fast travel
+A: Yes, once you unlock the map points.
+
+Q: where is the blacksmith
+A: In the main village, next to the marketplace.
+
+Q: how do i level up
+A: Gain XP by defeating enemies and completing quests.
+
+Q: what are my stats
+A: You can check your stats in the character menu.
+
+## Tech Assistant
+Q: what is python
+A: Python is a powerful programming language.
+
+Q: what is ai
+A: AI stands for Artificial Intelligence.
+
+Q: how do i print in python
+A: Use `print("Your text here")`.
+
+Q: what is html
+A: HTML is the standard language for creating web pages.
+
+Q: what does cpu mean
+A: CPU stands for Central Processing Unit.
+
+Q: what is a chatbot
+A: A chatbot is a program that can chat like a human.
+
+Q: how to save a file
+A: Use `with open('file.txt', 'w') as f:` in Python.
+
+Q: can you code
+A: Yes! I can help with Python, C++, and more.
+
+Q: what is a database
+A: A structured place to store data, like SQLite.
+
+Q: how do i install packages
+A: Use `pip install package-name` in the terminal.
+
+## Islamic Knowledge
+Q: what is islam
+A: Islam is a religion of peace and submission to Allah.
+
+Q: who is prophet muhammad
+A: Prophet Muhammad ﷺ is the last prophet of Islam.
+
+Q: what is the qur'an
+A: The Qur'an is the holy book of Islam revealed to the Prophet.
+
+Q: what is salah
+A: Salah is the five daily prayers every Muslim must perform.
+
+Q: who is allah
+A: Allah is the One true God, the Creator of everything.
+
+Q: what is zakat
+A: Zakat is a form of charity and purification in Islam.
+
+Q: what is hajj
+A: Hajj is a pilgrimage to Mecca performed once in a lifetime.
+
+Q: what is fasting
+A: Fasting is abstaining from food and drink from dawn to sunset.
+
+Q: what are the 5 pillars
+A: Shahada, Salah, Zakat, Fasting, and Hajj.
+
+Q: what is surah al-fatiha
+A: It's the opening chapter of the Qur'an and a key prayer.
